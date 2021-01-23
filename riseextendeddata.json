@@ -1,0 +1,19 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://github.com/RiseCardano/RiseCardano.github.io/blob/master/RiseLogoSmall6464.png",
+        "location": "London, England",
+        "social": {
+            "twitter_handle": "https://twitter.com/RiseCardano",
+            "telegram_handle": "https://t.me/RISE_Pool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "1e4f8dc9672d16131da6533287e32ea100b34d67543ff7c7358c7b5e"
+    }
+}
